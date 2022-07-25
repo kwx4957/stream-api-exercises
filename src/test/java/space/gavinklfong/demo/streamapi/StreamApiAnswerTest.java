@@ -28,7 +28,7 @@ import space.gavinklfong.demo.streamapi.repos.ProductRepo;
 
 @Slf4j
 @DataJpaTest
-public class StreamApiTest {
+public class StreamApiAnswerTest {
 
 	@Autowired
 	private CustomerRepo customerRepo;
